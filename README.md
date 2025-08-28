@@ -1,6 +1,6 @@
 # Jogo Nim com Inteligência Artificial (Poda Alpha-Beta)
 
-Este repositório contém a implementação do clássico jogo de estratégia Nim. O projeto coloca um jogador humano contra uma Inteligência Artificial (IA) que utiliza o algoritmo Minimax otimizado com a Poda Alpha-Beta para determinar a jogada ideal.
+Este repositório contém a implementação do clássico jogo de estratégia Nim, projeto realizado na na displina TI326 - Inteligência Artificial. O projeto coloca um jogador humano contra uma Inteligência Artificial (IA) que utiliza o algoritmo Minimax otimizado com a Poda Alpha-Beta para determinar a jogada ideal.
 
 ## 📜 Visão Geral
 
